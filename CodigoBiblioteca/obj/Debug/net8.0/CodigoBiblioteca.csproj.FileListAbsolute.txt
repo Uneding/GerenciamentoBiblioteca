@@ -1,0 +1,15 @@
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.exe
+D:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.deps.json
+D:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.runtimeconfig.json
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.dll
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\bin\Debug\net8.0\CodigoBiblioteca.pdb
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.AssemblyInfoInputs.cache
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.AssemblyInfo.cs
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.csproj.CoreCompileInputs.cache
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.sourcelink.json
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.dll
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\refint\CodigoBiblioteca.dll
+d:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.pdb
+D:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\CodigoBiblioteca.genruntimeconfig.cache
+D:\atividades\João_Paulo\GerenciamentoBiblioteca\CodigoBiblioteca\obj\Debug\net8.0\ref\CodigoBiblioteca.dll
